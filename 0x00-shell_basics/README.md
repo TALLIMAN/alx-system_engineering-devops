@@ -1,1 +1,1 @@
-this file comtains scripts that are executable
+a script that prints the absolute path name of the current working directory.
